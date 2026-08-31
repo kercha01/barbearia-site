@@ -4,7 +4,18 @@
 
 [🌐 **Live Demo**](https://barbeariakercha.vercel.app/)
 
+## 📸 Preview
+
+### Desktop
+
+![Barbearia Elite Desktop](swappy-20260831-151747.png)
+
+### Mobile
+
+![Barbearia Elite Mobile](swappy-20260831-152158.png)
+
 ## ✨ Features
+...
 
 * 📱 Responsive, mobile-first design
 * 💈 Modern barbershop landing page
